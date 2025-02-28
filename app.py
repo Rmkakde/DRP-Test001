@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template_string
-from urllib.parse import quote
 import pyodbc
 import os
 
